@@ -1,5 +1,5 @@
 # USD2SYP
-![USD2SYP](./ShowCase.gif.gif "USD2SYP")<br />
+![USD2SYP](./ShowCase.gif "USD2SYP")<br />
 exchange rate between usd and syrian pounds, using SignalR to watch the changes as they happen.<br/>
 
 # The project
